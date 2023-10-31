@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![ROKORORI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROKORORI&show_icons=true&theme=cobalt)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rhtjdals1723)](https://solved.ac/rhtjdals1723)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhtjdals1723)](https://solved.ac/rhtjdals1723)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROKORORI&layout=compact&theme=synthwave)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FROKORORI&count_bg=%230EDEB0&title_bg=%231B7FE2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
