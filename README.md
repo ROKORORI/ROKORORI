@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![ROKORORI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROKORORI&show_icons=true&theme=cobalt)  
 <!--
 **ROKORORI/ROKORORI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
