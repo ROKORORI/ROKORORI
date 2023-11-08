@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROKORORI&layout=compact&theme=tokyonight)
  
 # 💪Skills
-### Platforms & Languages
+### :computer: Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![PyPy](https://img.shields.io/badge/PyPy-193440.svg?&style=for-the-badge&logo=PyPy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -16,7 +16,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 
-### Tools
+### :wrench: Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![GoogleColab](https://img.shields.io/badge/GoogleColab-F9AB00.svg?&style=for-the-badge&logo=GoogleColab&logoColor=white)
