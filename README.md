@@ -22,8 +22,8 @@
 ![GoogleColab](https://img.shields.io/badge/GoogleColab-F9AB00.svg?&style=for-the-badge&logo=GoogleColab&logoColor=white)
 
 # :trophy: Awards and Honors
-### (2023.07.31) Summer Vacation CCC 3rd Prize
-### (2023.11.11) IGRUS Newbie Programming Contest 3rd Prize
+### \(2023.07.31\) Summer Vacation CCC 3rd Prize
+### \(2023.11.11\) IGRUS Newbie Programming Contest 3rd Prize
 
 # :mailbox_with_mail: Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rhtjdals1723@naver.com)](mailto:rhtjdals1723@naver.com)
