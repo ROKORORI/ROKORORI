@@ -2,9 +2,8 @@
 
 ![ROKORORI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROKORORI&show_icons=true&theme=radical)  
 ###
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhtjdals1723)](https://solved.ac/rhtjdals1723)
-###
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROKORORI&layout=compact&theme=tokyonight)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhtjdals1723)](https://solved.ac/rhtjdals1723)
 ###
     
 # 💪Skills
