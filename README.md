@@ -34,8 +34,7 @@
 - \(2023.11.11\) IGRUS Newbie Programming Contest 3rd Prize
 ###
 ### :pencil: License
-- 정보처리 기능사 (필기)
-- 리눅스 마스터 2급 (필기)
+-
 #
 
 # :mailbox_with_mail: Contacts
