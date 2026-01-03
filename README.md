@@ -1,14 +1,11 @@
-# KO SUNG MIN
-
-![ROKORORI's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROKORORI&show_icons=true&theme=radical)  
-###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROKORORI&layout=compact&theme=tokyonight)
+# KO SEONG MIN
+# :computer: Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhtjdals1723)](https://solved.ac/rhtjdals1723)
 ###
     
-# 💪Skills
+# :wrench: Skills
 
-### :computer: Languages
+### 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![PyPy](https://img.shields.io/badge/PyPy-193440.svg?&style=for-the-badge&logo=PyPy&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -19,10 +16,9 @@
 ###
 
 #
-### :wrench: Tools
+### 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![GoogleColab](https://img.shields.io/badge/GoogleColab-F9AB00.svg?&style=for-the-badge&logo=GoogleColab&logoColor=white)
 ![UnrealEngine5](https://img.shields.io/badge/unrealengine-0E1128.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ###
 #
