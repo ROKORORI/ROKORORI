@@ -25,7 +25,8 @@
 ### :crown: Awards
 -  \(2023.07.31\) Summer Vacation CCC 3rd Prize
 - \(2023.11.11\) IGRUS Newbie Programming Contest 3rd Prize
-###
+### :crown: Honors
+- \(2026.01.10\) Shake! (Participating in the competition as one of the 10 representatives from Inha University)
 ### :pencil: License
 -
 #
