@@ -34,11 +34,11 @@
 # :computer: Project
 ###
 ### :video_game: Game
-- OpenGL
-- Mushroom Mountain
+- OpenGL (University task)
+- Mushroom Mountain (제작중)
 ### :robot: AI
-- 3D Printer Gun Parts Restriction Program
-- AI Based 3d World Reconstruction
+- 3D Printer Gun Parts Restriction Program (University Team Project)
+- AI Based 3d World Reconstruction (University Solo Project)
 
 # :mailbox_with_mail: Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rhtjdals1723@naver.com)](mailto:rhtjdals1723@naver.com)
