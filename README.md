@@ -35,7 +35,7 @@
 ###
 ### :video_game: Game
 - OpenGL
-- MushRoomMountain
+- Mushroom Mountain
 ### :robot: AI
 - 3D Printer Gun Parts Restriction Program
 - AI Based 3d World Reconstruction
