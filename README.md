@@ -1,5 +1,5 @@
 # KO SEONG MIN
-# :computer: Algorithm
+# :pencil2: Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhtjdals1723)](https://solved.ac/rhtjdals1723)
 ###
     
