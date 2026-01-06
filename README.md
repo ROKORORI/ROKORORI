@@ -2,9 +2,9 @@
 # :pencil2: Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhtjdals1723)](https://solved.ac/rhtjdals1723)
 ###
-    
-# :wrench: Skills
+#
 
+# :wrench: Skills
 ### 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![PyPy](https://img.shields.io/badge/PyPy-193440.svg?&style=for-the-badge&logo=PyPy&logoColor=white)
@@ -33,6 +33,12 @@
 
 # :computer: Project
 ###
+### :video_game: Game
+- OpenGL
+- MushRoomMountain
+### :robot: AI
+- 3D Printer Gun Parts Restriction Program
+- AI Based 3d World Reconstruction
 
 # :mailbox_with_mail: Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rhtjdals1723@naver.com)](mailto:rhtjdals1723@naver.com)
