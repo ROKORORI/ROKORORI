@@ -28,7 +28,7 @@
 ### :crown: Honors
 - \(2026.01.10\) Shake! (Participating in the competition as one of the 10 representatives from Inha University)
 ### :pencil: License
--
+- \ 정보처리기사(필기)
 #
 
 # :mailbox_with_mail: Contacts
